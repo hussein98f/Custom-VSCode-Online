@@ -4,9 +4,10 @@ function CloseIcon() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      {...svgStyle}
-      fill="none"
-      stroke="white"
+      width="20px"
+      height="20px"
+      fill="white"
+      stroke="#fff"
       viewBox="0 0 64 64"
     >
       <path d="M16 16L48 48"></path>

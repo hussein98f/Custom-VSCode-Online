@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 body {
+  overflow: hidden;
+  width: 100dvw;
+  max-width: 100dvw;
+  height: 100dvh;
+  max-height: 100dvh;
   background-color: rgb(26, 26, 26);
   color: #e9e9e9;
 }
